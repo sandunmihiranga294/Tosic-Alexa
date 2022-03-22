@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━✨️SADUWA YT✨️━━━━⛦
 
 
-*Hello I am Tosic-Alexa Bot*.
+*Hello I am Tosic-Alexa Bot.*
   
    ᶜʳᵉᵃᵗᵉᵈ ᵇʸ ˢᵃⁿᵈᵘⁿ ᴹⁱʰⁱʳᵃⁿᵍᵃ.
 
