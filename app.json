@@ -3,7 +3,7 @@
     "description": "Toxic-Alexa - Whatsapp Bot",
     "logo": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/TURBOHYPER/Toxic-Alexa",
+    "repository": "https://github.com/Sandun-Mihiranga1/Tosic-Alexa",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -146,7 +146,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.menu* ```for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
