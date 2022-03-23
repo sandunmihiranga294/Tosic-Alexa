@@ -3,8 +3,8 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const ll ="എന്തെങ്കിലും type ആക് 🙇‍♂️"
-const Ln = "▷🤖നിങ്ങൾ ആഗ്രഹിക്കുന്ന രീതിയിൽ മെമ്മുകൾ ഇച്ഛാനുസൃതമാക്കാൻ മെമ്മെ ലിസ്റ്റ്◁ "
+const ll ="සකසමින් පවතී...🙇‍♂️"
+const Ln = "▷🤖කරුණාකර රැදීසිටින්න....◁ "
 const code = "╔════◉ CAMANDS ◉════╗\n\n            ❖═List═❖\n*🔮.yasai       ❴text❵\n🔮.uddika    ❴text❵\n🔮.aah          ❴text❵\n🔮.sir            ❴text❵\n🔮.my3         ❴text❵\n🔮.fuck         ❴text❵\n🔮.hii             ❴text❵\n🔮.asai          ❴text❵\n🔮.hapoi       ❴text❵\n🔮.quby1    ❴text❵\n🔮.quby2    ❴text❵\n🔮.quby3    ❴text❵\n🔮.quby4    ❴text❵\n🔮.cat1    ❴text❵\n🔮.cat2    ❴text❵\n🔮.cat3    ❴text❵\n🔮.cat4    ❴text❵\n🔮.trollikka1    ❴text❵\n🔮.trollikka2    ❴text❵\n🔮.trollikka3    ❴text❵\n🔮.trollikka4    ❴text❵\n\n╚═══❖══▣══▣══❖═══╝\n\n▷Moded By: Sandun Mihiranga*\n*▷Specιal Thanks to DS Botz Team*"
 
 if (Config.WORKTYPE == 'public') {
