@@ -14,7 +14,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Githublink :    https://github.com/Sandun1Mihiranfa/Toxic-Alexa*
 
-*Audio commads :   https://github.com/Sandun1Mihiranfa/Toxic-Alexa/tree/master/upload*
+*Audio commads :   https://github.com/Sandun-Mihiranga1/Tosic-Alexa*
 
 *Sticker commads : coming soon*
 
