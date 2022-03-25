@@ -1,4 +1,4 @@
-const xTroid = require('../events');
+const Alexa = require('../events');
 const fs = require('fs');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 
