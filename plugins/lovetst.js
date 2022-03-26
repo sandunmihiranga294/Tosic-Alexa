@@ -6,7 +6,7 @@ const chalk = require('chalk');
 const axios = require('axios');
 
 
-  Asena.addCommand({pattern: 'loveinfo', fromMe: false,desc:' සමූහයක අයෙකුට ආදරේ ප්‍රකාශ කරන්න 🤗' }, (async (message, match) => {
+  Asena.addCommand({pattern: 'love', fromMe: false,desc:' සමූහයක අයෙකුට ආදරේ ප්‍රකාශ කරන්න 🤗' }, (async (message, match) => {
 
     await message.sendMessage('*I*');
 
@@ -45,7 +45,7 @@ const axios = require('axios');
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: ` *Do you love me* 🙃 `,quoted: message.data})
 }));
 
-Asena.addCommand({pattern: 'love', fromMe: false}, (async (message, match) => {
+Asena.addCommand({pattern: 'loveinfo', fromMe: false}, (async (message, match) => {
 
     await message.sendMessage("*Sandun Mihiranga😎 DS* \n*ආදරේ කියන්න හොදම විදිහ ❤️⃟✦⃝̮̮̮̯̯̯😌🔥*  \n❄️Usage: *.love*\n *Dont Copy Plugin I'm DS* ")
 
